@@ -4,6 +4,7 @@ Allows for highlighting of NPCs with different colors to easily distinguish betw
 
 Currently, this plugin is NOT meant as a replacement for runelite's npc indicators plugin, but as an addition.
 
+![](banner.png)
 
 ## Features
 
@@ -17,4 +18,4 @@ Currently, this plugin is NOT meant as a replacement for runelite's npc indicato
 - shift-right-click menu options to add npcs to groups
 - minimap overlays
 
-Submit an [issue]() or [pull request]() with any feature requests or improvements.
+Submit an [issue](https://github.com/sgfost/multicolor-highlights/issues/new) or [pull request](https://github.com/sgfost/multicolor-highlights/pulls) with any feature requests or improvements.
