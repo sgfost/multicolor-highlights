@@ -22,8 +22,8 @@ dependencies {
 	testImplementation group: 'net.runelite', name:'client', version: runeLiteVersion
 }
 
-group = 'com.multihighlight'
-version = '1.0-SNAPSHOT'
+group = 'sgf.multihighlight'
+version = '1.0.0'
 sourceCompatibility = '1.8'
 
 tasks.withType(JavaCompile) {
