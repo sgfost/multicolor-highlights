@@ -12,10 +12,6 @@ Currently, this plugin is NOT meant as a replacement for runelite's npc indicato
 - toggleable hull outline and hull fill highlighting styles
 
 
-## Todo
+# ⚠️ NOTICE ⚠️
 
-- more highlighting styles
-- shift-right-click menu options to add npcs to groups
-- minimap overlays
-
-Submit an [issue](https://github.com/sgfost/multicolor-highlights/issues/new) or [pull request](https://github.com/sgfost/multicolor-highlights/pulls) with any feature requests or improvements.
+This plugin is abandoned. If you are interested in changes you can fork it and submit it to be replaced on the plugin hub.
